@@ -7,3 +7,5 @@
 | Rien           | https://github.com/rien/adventofcode2020         | Elixir  |
 | Robbe          | https://github.com/Robbe7730/advent_of_code_2020 | Rust    |
 | Francis        | https://github.com/fbegyn/aoc2020                | Go      |
+| Timo           | https://github.com/timodw/AoC20                  | Rust    |
+| Kobe           | https://github.com/SchrodingersCat00/aoc2020     | Haskell |
