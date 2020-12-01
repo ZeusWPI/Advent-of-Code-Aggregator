@@ -11,3 +11,4 @@
 | Kobe           | https://github.com/SchrodingersCat00/aoc2020     | Haskell    |
 | Jasper         | https://github.com/jaspervdj/advent-of-code      | Haskell    |
 | Lorin          | https://github.com/werthen/AoC-2020              | TensorFlow |
+| Felix          | https://github.com/ninewise/adventofcode-2020    | Shell      |
