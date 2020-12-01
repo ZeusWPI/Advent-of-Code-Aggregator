@@ -9,3 +9,4 @@
 | Francis        | https://github.com/fbegyn/aoc2020                | Go      |
 | Timo           | https://github.com/timodw/AoC20                  | Rust    |
 | Kobe           | https://github.com/SchrodingersCat00/aoc2020     | Haskell |
+| Jasper         | https://github.com/jaspervdj/advent-of-code      | Haskell |
