@@ -12,3 +12,4 @@
 | Jasper         | https://github.com/jaspervdj/advent-of-code      | Haskell    |
 | Lorin          | https://github.com/werthen/AoC-2020              | TensorFlow |
 | Felix          | https://github.com/ninewise/adventofcode-2020    | Shell      |
+| Francis.       | https://github.com/FKD13/AoC2020                 | Erlang     |
