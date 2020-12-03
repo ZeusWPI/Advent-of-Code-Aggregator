@@ -1,0 +1,45 @@
+[submodule "Lukas"]
+	path = Lukas
+	url = https://github.com/lvrossem/Advent-of-Code-2020
+[submodule "Flynn"]
+	path = Flynn
+	url = https://gitlab.com/mcbloch/aoc2020
+[submodule "Rien"]
+	path = Rien
+	url = https://github.com/rien/adventofcode2020
+[submodule "Robbe"]
+	path = Robbe
+	url = https://github.com/Robbe7730/advent_of_code_2020
+[submodule "Francis"]
+	path = Francis
+	url = https://github.com/fbegyn/aoc2020
+[submodule "Timo"]
+	path = Timo
+	url = https://github.com/timodw/AoC20
+[submodule "Kobe"]
+	path = Kobe
+	url = https://github.com/SchrodingersCat00/aoc2020
+[submodule "Jasper"]
+	path = Jasper
+	url = https://github.com/jaspervdj/advent-of-code
+[submodule "Lorin"]
+	path = Lorin
+	url = https://github.com/werthen/AoC-2020
+[submodule "Felix"]
+	path = Felix
+	url = https://github.com/ninewise/adventofcode-2020
+[submodule "Francis."]
+	path = Francis.
+	url = https://github.com/FKD13/AoC2020
+[submodule "Mel"]
+	path = Mel
+	url = https://gitlab.com/Melsarion/adventofcode2020
+[submodule "Poef"]
+	path = Poef
+	url = https://github.com/Iepoev/AoC20
+[submodule "Lode"]
+	path = Lode
+	url = https://gitlab.com/Bond_009/advent-of-code-2020
+[submodule "JP"]
+	path = JP
+	url = https://github.com/Jan-PieterBaert/advent-of-code

@@ -1,0 +1,10 @@
+#!/bin/sh
+day="$(printf '%02d' "$1")"
+part="$2"
+inputfile="../inputs/$day-input"
+
+[ -x "prepare" ] || exit 0
+[ -x "run" ] || exit 0
+
+./prepare "$day" "$part" "$inputfile"
+hyperfine "./run '$day' '$part' '$inputfile'"
