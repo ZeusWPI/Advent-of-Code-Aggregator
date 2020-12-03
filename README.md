@@ -14,4 +14,5 @@
 | Felix          | https://github.com/ninewise/adventofcode-2020    | Shell      |
 | Francis.       | https://github.com/FKD13/AoC2020                 | Erlang     |
 | Mel            | https://gitlab.com/Melsarion/adventofcode2020    | Elixir     |
+| Poef           | https://github.com/Iepoev/AoC20                  | Elixir     |
 | Lode           | https://gitlab.com/Bond_009/advent-of-code-2020  | C          |
