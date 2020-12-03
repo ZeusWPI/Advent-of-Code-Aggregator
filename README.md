@@ -16,3 +16,4 @@
 | Mel            | https://gitlab.com/Melsarion/adventofcode2020    | Elixir     |
 | Poef           | https://github.com/Iepoev/AoC20                  | Elixir     |
 | Lode           | https://gitlab.com/Bond_009/advent-of-code-2020  | C          |
+| JP            | https://github.com/Jan-PieterBaert/advent-of-code | Rust       |
