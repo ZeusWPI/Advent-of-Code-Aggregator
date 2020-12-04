@@ -21,20 +21,20 @@
 
 * repo clonen:
 
-    ```bash
+    ```sh
     git clone --recursive git@github.com:ZeusWPI/Advent-of-Code-Aggregator.git
     ```
 
 * nieuwe toevoegen:
 
-    ```bash
+    ```sh
     git submodule add <link zoals in tabel> <naam zoals in tabel>
     git commit -m 'hey guys ik heb een repo toegevoegd'
     ```
 
 * bestaande submodules updaten:
 
-    ```bash
+    ```sh
     git submodule foreach git fetch origin
     git submodule foreach git reset --hard origin/HEAD > /dev/null 2>&1
     git add * # oh no
@@ -43,6 +43,6 @@
 
 * benchmarks uitvoeren:
 
-    ```bash
+    ```sh
     git submodule foreach ../benchmark <day> <part>
     ```

@@ -43,3 +43,6 @@
 [submodule "JP"]
 	path = JP
 	url = https://github.com/Jan-PieterBaert/advent-of-code
+[submodule "Niko"]
+	path = Niko
+	url = https://github.com/niknetniko/AdventOfCode
