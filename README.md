@@ -18,3 +18,22 @@
 | Lode           | https://gitlab.com/Bond_009/advent-of-code-2020   | C          |
 | JP             | https://github.com/Jan-PieterBaert/advent-of-code | Rust       |
 | Niko           | https://github.com/niknetniko/AdventOfCode        | Elixir     |
+
+* repo clonen:
+
+    git clone --recursive git@github.com:ZeusWPI/Advent-of-Code-Aggregator.git
+
+* nieuwe toevoegen:
+
+    git submodule add <link zoals in tabel> <naam zoals in tabel>
+    git commit -m 'hey guys ik heb een repo toegevoegd'
+
+* bestaande submodules updaten:
+
+    ./pullthemall
+    git add * # oh no
+    git commit -m 'update submodules'
+
+* benchmarks uitvoeren:
+
+    ./benchmarks <dag> <deel>
