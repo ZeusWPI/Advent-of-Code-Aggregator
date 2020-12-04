@@ -6,5 +6,9 @@ inputfile="../inputs/$day-input"
 [ -x "prepare" ] || exit 0
 [ -x "run" ] || exit 0
 
-./prepare "$day" "$part" "$inputfile"
+if ! ./prepare "$day" "$part" "$inputfile"; then
+	echo 'eh ge hebt precies niet alles geïnstalleerd staan'
+	exit
+fi
+
 hyperfine "./run '$day' '$part' '$inputfile'"
