@@ -20,6 +20,7 @@
 | Niko           | https://github.com/niknetniko/AdventOfCode        | Elixir     |
 | Silvius        | https://github.com/ajuvercr/aoc_2020              | Haskell    |
 | Bram           | https://github.com/bravdwal/aoc2020               | Perl       |
+| redfast00      | https://github.com/redfast00/aoc2020              | Python     |
 
 * repo clonen:
 

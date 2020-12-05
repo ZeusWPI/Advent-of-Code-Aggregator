@@ -52,3 +52,6 @@
 [submodule "Bram"]
 	path = Bram
 	url = https://github.com/bravdwal/aoc2020
+[submodule "redfast00"]
+	path = redfast00
+	url = https://github.com/redfast00/aoc2020
