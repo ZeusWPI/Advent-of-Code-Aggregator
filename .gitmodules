@@ -46,3 +46,6 @@
 [submodule "Niko"]
 	path = Niko
 	url = https://github.com/niknetniko/AdventOfCode
+[submodule "Silvius"]
+	path = Silvius
+	url = https://github.com/ajuvercr/aoc_2020
