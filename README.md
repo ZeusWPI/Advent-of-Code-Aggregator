@@ -18,6 +18,7 @@
 | Lode           | https://gitlab.com/Bond_009/advent-of-code-2020   | C          |
 | JP             | https://github.com/Jan-PieterBaert/advent-of-code | Rust       |
 | Niko           | https://github.com/niknetniko/AdventOfCode        | Elixir     |
+| Silvius        | https://github.com/ajuvercr/aoc_2020              | Haskell    |
 
 * repo clonen:
 
