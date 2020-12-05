@@ -55,3 +55,6 @@
 [submodule "redfast00"]
 	path = redfast00
 	url = https://github.com/redfast00/aoc2020
+[submodule "Charlotte"]
+	path = Charlotte
+	url = https://github.com/charvp/aoc2020
