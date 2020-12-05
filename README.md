@@ -19,6 +19,7 @@
 | JP             | https://github.com/Jan-PieterBaert/advent-of-code | Rust       |
 | Niko           | https://github.com/niknetniko/AdventOfCode        | Elixir     |
 | Silvius        | https://github.com/ajuvercr/aoc_2020              | Haskell    |
+| Bram           | https://github.com/bravdwal/aoc2020               | Perl       |
 
 * repo clonen:
 

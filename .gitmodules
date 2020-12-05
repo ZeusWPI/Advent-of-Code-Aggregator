@@ -49,3 +49,6 @@
 [submodule "Silvius"]
 	path = Silvius
 	url = https://github.com/ajuvercr/aoc_2020
+[submodule "Bram"]
+	path = Bram
+	url = https://github.com/bravdwal/aoc2020
