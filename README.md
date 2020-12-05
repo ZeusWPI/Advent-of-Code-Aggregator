@@ -21,6 +21,7 @@
 | Silvius        | https://github.com/ajuvercr/aoc_2020              | Haskell    |
 | Bram           | https://github.com/bravdwal/aoc2020               | Perl       |
 | redfast00      | https://github.com/redfast00/aoc2020              | Python     |
+| Charlotte      | https://github.com/charvp/aoc2020                 | Nix        |
 
 * repo clonen:
 
