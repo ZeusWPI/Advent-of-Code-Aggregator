@@ -35,7 +35,14 @@
     git commit -m 'hey guys ik heb een repo toegevoegd'
     ```
 
-* bestaande submodules updaten:
+* uw lokale kopie updaten:
+
+    ```sh
+    git pull # duh
+    git submodule update
+    ```
+
+* van alle submodules de nieuwste versie binnenhalen (zelfs als mensen *force push*en):
 
     ```sh
     git submodule foreach git fetch origin
