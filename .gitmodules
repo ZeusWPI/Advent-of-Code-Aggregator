@@ -37,9 +37,6 @@
 [submodule "Poef"]
 	path = Poef
 	url = https://github.com/Iepoev/AoC20
-[submodule "Lode"]
-	path = Lode
-	url = https://gitlab.com/Bond_009/advent-of-code-2020
 [submodule "JP"]
 	path = JP
 	url = https://github.com/Jan-PieterBaert/advent-of-code
