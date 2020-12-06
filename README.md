@@ -22,7 +22,7 @@
 | Bram           | https://github.com/bravdwal/aoc2020               | Perl       |
 | redfast00      | https://github.com/redfast00/aoc2020              | Python     |
 | Charlotte      | https://github.com/charvp/aoc2020                 | Nix        |
-| Arthur/Swomp   | hhttps://github.com/AWerbrouck/AOC2020            | Java       |
+| Arthur/Swomp   | https://github.com/AWerbrouck/AOC2020             | Java       |
 
 
 * repo clonen:
