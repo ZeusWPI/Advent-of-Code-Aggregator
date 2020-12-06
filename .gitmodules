@@ -60,4 +60,4 @@
 	url = https://github.com/AWerbrouck/AOC2020
 [submodule "Lode"]
 	path = Lode
-	url = https://github.com/Bond-009/advent-of-code-2020.git
+	url = https://github.com/Bond-009/advent-of-code-2020
