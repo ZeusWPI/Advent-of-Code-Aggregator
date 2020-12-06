@@ -59,5 +59,5 @@
 	path = Charlotte
 	url = https://github.com/charvp/aoc2020
 [submodule "Arthur_Swamp"]
-	path = Arthur_Swamp/
+	path = Arthur_Swamp
 	url = https://github.com/AWerbrouck/AOC2020
