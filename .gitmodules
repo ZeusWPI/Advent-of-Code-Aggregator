@@ -9,7 +9,7 @@
 	url = https://github.com/rien/adventofcode2020
 [submodule "Robbe"]
 	path = Robbe
-	url = https://github.com/Robbe7730/advent_of_code_2020
+	url = https://github.com/Robbe7730/adventofcode2020
 [submodule "Francis"]
 	path = Francis
 	url = https://github.com/fbegyn/aoc2020
@@ -61,5 +61,3 @@
 [submodule "Lode"]
 	path = Lode
 	url = https://github.com/Bond-009/advent-of-code-2020
-[submodule "Robbe/"]
-	url = https://github.com/Robbe7730/adventofcode2020
