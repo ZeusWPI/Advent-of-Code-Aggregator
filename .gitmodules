@@ -61,3 +61,6 @@
 [submodule "Lode"]
 	path = Lode
 	url = https://github.com/Bond-009/advent-of-code-2020
+[submodule "Mraedis"]
+	path = Mraedis
+	url = https://github.com/Mraedis/AoC2020

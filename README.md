@@ -23,7 +23,7 @@
 | redfast00      | https://github.com/redfast00/aoc2020              | Python     |
 | Charlotte      | https://github.com/charvp/aoc2020                 | Nix        |
 | Arthur/Swomp   | https://github.com/AWerbrouck/AOC2020             | Java       |
-
+| Mraedis        | https://github.com/Mraedis/AoC2020                | Python     |
 
 * repo clonen:
 
