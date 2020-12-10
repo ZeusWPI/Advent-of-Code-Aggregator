@@ -7,12 +7,11 @@ inputfile="../inputs/$day-input"
 
 if ! ./prepare "$day" "$part" "$inputfile"; then
 	echo 'eh ge hebt precies niet alles geïnstalleerd staan'
-	exit
+else
+	if [ -x "run" ]; then
+		hyperfine "./run '$day' '$part' '$inputfile'"
+	fi
 fi
-
-[ -x "run" ] || exit 0
-
-hyperfine "./run '$day' '$part' '$inputfile'"
 
 if [ -x "clean" ]; then
 	./clean
