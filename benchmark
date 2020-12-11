@@ -16,3 +16,5 @@ fi
 if [ -x "clean" ]; then
 	./clean
 fi
+
+true
