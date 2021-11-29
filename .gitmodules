@@ -1,66 +1,69 @@
 [submodule "Lukas"]
-	path = Lukas
+	path = 2020/Lukas
 	url = https://github.com/lvrossem/Advent-of-Code-2020
 [submodule "Flynn"]
-	path = Flynn
+	path = 2020/Flynn
 	url = https://gitlab.com/mcbloch/aoc2020
 [submodule "Rien"]
-	path = Rien
+	path = 2020/Rien
 	url = https://github.com/rien/adventofcode2020
 [submodule "Robbe"]
-	path = Robbe
+	path = 2020/Robbe
 	url = https://github.com/Robbe7730/adventofcode2020
 [submodule "Francis"]
-	path = Francis
+	path = 2020/Francis
 	url = https://github.com/fbegyn/aoc2020
 [submodule "Timo"]
-	path = Timo
+	path = 2020/Timo
 	url = https://github.com/timodw/AoC20
 [submodule "Kobe"]
-	path = Kobe
+	path = 2020/Kobe
 	url = https://github.com/SchrodingersCat00/aoc2020
 [submodule "Jasper"]
-	path = Jasper
+	path = 2020/Jasper
 	url = https://github.com/jaspervdj/advent-of-code
 [submodule "Lorin"]
-	path = Lorin
+	path = 2020/Lorin
 	url = https://github.com/werthen/AoC-2020
 [submodule "Felix"]
-	path = Felix
+	path = 2020/Felix
 	url = https://github.com/ninewise/adventofcode-2020
 [submodule "Francis."]
-	path = Francis.
+	path = 2020/Francis.
 	url = https://github.com/FKD13/AoC2020
 [submodule "Mel"]
-	path = Mel
+	path = 2020/Mel
 	url = https://gitlab.com/Melsarion/adventofcode2020
 [submodule "Poef"]
-	path = Poef
+	path = 2020/Poef
 	url = https://github.com/Iepoev/AoC20
 [submodule "JP"]
-	path = JP
+	path = 2020/JP
 	url = https://github.com/Jan-PieterBaert/advent-of-code
 [submodule "Niko"]
-	path = Niko
+	path = 2020/Niko
 	url = https://github.com/niknetniko/AdventOfCode
 [submodule "Silvius"]
-	path = Silvius
+	path = 2020/Silvius
 	url = https://github.com/ajuvercr/aoc_2020
 [submodule "Bram"]
-	path = Bram
+	path = 2020/Bram
 	url = https://github.com/bravdwal/aoc2020
 [submodule "redfast00"]
-	path = redfast00
+	path = 2020/redfast00
 	url = https://github.com/redfast00/aoc2020
 [submodule "Charlotte"]
-	path = Charlotte
+	path = 2020/Charlotte
 	url = https://github.com/charvp/aoc2020
 [submodule "Arthur_Swamp"]
-	path = Arthur_Swamp
+	path = 2020/Arthur_Swamp
 	url = https://github.com/AWerbrouck/AOC2020
 [submodule "Lode"]
-	path = Lode
+	path = 2020/Lode
 	url = https://github.com/Bond-009/advent-of-code-2020
 [submodule "Mraedis"]
-	path = Mraedis
+	path = 2020/Mraedis
 	url = https://github.com/Mraedis/AoC2020
+[submodule "2021/ninewise"]
+	path = 2021/ninewise
+	url = https://git.fuyu.moe/ninewise/adventofcode-2021.git

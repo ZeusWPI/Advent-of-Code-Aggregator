@@ -1,0 +1,31 @@
+#!/bin/sh
+day="$1"
+part="$2"
+
+day="$(printf '%02d' "$day")"
+
+inputfile="$PWD/inputs/${day}.txt"
+
+if ! test -f "$inputfile"; then
+	echo "no input available" >&2
+	exit 1
+fi
+
+for dir in *; do
+	if test -d "$dir"; then
+		cd "$dir"
+		if test -x ./prepare; then
+			if ! ./prepare "$day" "$part" >&2; then
+				echo 'eh ge hebt precies niet alles geïnstalleerd staan'
+			else
+				if test -x run; then
+					hyperfine -n "$dir" "./run '$day' '$part' '$inputfile'"
+				fi
+			fi
+		fi
+		if test -x ./clean; then
+			./clean "$day" "$part" "$inputfile"
+		fi
+		cd - > /dev/null 2>&1
+	fi
+done
