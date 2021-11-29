@@ -4,7 +4,7 @@
 | :------------- | :-----------------------------------------------: | ---------: |
 | chvp           | https://github.com/chvp/aoc2021                   | ?          |
 | ninewise       | https://git.fuyu.moe/ninewise/adventofcode-2021   | ?          |
-| mcbloch        | https://gitlab.com/mcbloch/aoc2021                | ?          |
+| Flynn          | https://gitlab.com/mcbloch/aoc2021                | ?          |
 
 * repo clonen:
 
