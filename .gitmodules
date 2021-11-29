@@ -67,3 +67,6 @@
 [submodule "2021/ninewise"]
 	path = 2021/ninewise
 	url = https://git.fuyu.moe/ninewise/adventofcode-2021.git
+[submodule "2021/aoc2021"]
+	path = 2021/chvp
+	url = https://github.com/chvp/aoc2021

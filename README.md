@@ -2,6 +2,7 @@
 
 | Wie?           | Waar? (Repository)                                | Taal?      |
 | :------------- | :-----------------------------------------------: | ---------: |
+| chvp           | https://github.com/chvp/aoc2021                   | ?          |
 | ninewise       | https://git.fuyu.moe/ninewise/adventofcode-2021   | ?          |
 
 * repo clonen:
