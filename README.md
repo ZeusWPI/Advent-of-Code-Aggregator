@@ -28,7 +28,7 @@
 
     ```sh
     cd 2021
-    git submodule add <link zoals in tabel> <jaar>/<naam zoals in tabel>
+    git submodule add <link zoals in tabel> <naam zoals in tabel>
     git commit -m 'hey guys ik heb een repo toegevoegd'
     ```
 
