@@ -84,3 +84,6 @@
 [submodule "2021/rien"]
 	path = 2021/rien
 	url = git@github.com:rien/adventofcode2021.git
+[submodule "2021/iasoon"]
+	path = 2021/iasoon
+	url = https://github.com/iasoon/aoc2021
