@@ -19,7 +19,9 @@
 * repo clonen:
 
     ```sh
-    git clone --recursive git@github.com:ZeusWPI/Advent-of-Code-Aggregator.git
+    git clone git@github.com:ZeusWPI/Advent-of-Code-Aggregator.git
+    git submodule init 2021 # just the current year
+    git submodule update
     ```
 
 * nieuwe persoon toevoegen:
@@ -49,6 +51,6 @@
 * benchmarks uitvoeren:
 
     ```sh
-    cd "2021"
+    cd 2021
     ./complete-benchmark
     ```
