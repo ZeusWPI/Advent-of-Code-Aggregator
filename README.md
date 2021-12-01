@@ -6,7 +6,7 @@
 | ninewise       | https://git.fuyu.moe/ninewise/adventofcode-2021   | ?          |
 | robbe          | git@github.com:Robbe7730/adventofcode2021.git     | ?          |
 | Flynn          | https://gitlab.com/mcbloch/aoc2021                | ?          |
-| Silvius        | https://gitlab.com/ajuvercr/aoc\_2021             | C          |
+| Silvius        | https://gitlab.com/ajuvercr/aoc_2021              | C          |
 
 * repo clonen:
 
