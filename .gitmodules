@@ -81,3 +81,6 @@
 [submodule "2021/Flynn"]
 	path = 2021/Flynn
 	url = https://gitlab.com/mcbloch/aoc2021
+[submodule "2021/rien"]
+	path = 2021/rien
+	url = git@github.com:rien/adventofcode2021.git
