@@ -72,18 +72,17 @@
 	url = https://github.com/chvp/aoc2021
 [submodule "2021/robbe"]
 	path = 2021/robbe
-	url = git@github.com:Robbe7730/adventofcode2021.git
+	url = https://github.com/Robbe7730/adventofcode2021.git
 [submodule "2021/silvius"]
 	path = 2021/silvius
 	url = https://github.com/ajuvercr/aoc-2021.git
 [submodule "robbe"]
-	url = https://github.com/Robbe7730/adventofcode2021.git
 [submodule "2021/Flynn"]
 	path = 2021/Flynn
 	url = https://gitlab.com/mcbloch/aoc2021
 [submodule "2021/rien"]
 	path = 2021/rien
-	url = git@github.com:rien/adventofcode2021.git
+	url = https://github.com/rien/adventofcode2021.git
 [submodule "2021/iasoon"]
 	path = 2021/iasoon
 	url = https://github.com/iasoon/aoc2021
