@@ -1,7 +1,5 @@
 # De Zeus Advent of Code
 
-## 2021
-
 | Wie?           | Waar? (Repository)                                | Taal?       |
 | :------------- | :-----------------------------------------------: | ---------:  |
 | chvp           | https://github.com/chvp/aoc2021                   | forth       |
@@ -17,11 +15,6 @@
 | Francis.       | https://github.com/FKD13/AoC2021.git              | Prolog      |
 | Lox            | https://github.com/Silox/2021-advent-of-code.git  | Ruby        |
 
-## 2020 (incomplete)
-
-| Wie?           | Waar? (Repository)                                | Taal?       |
-| :------------- | :-----------------------------------------------: | ---------:  |
-| Lox            | https://github.com/Silox/2020-advent-of-code.git  | Ruby        |
 
 * repo clonen:
 
