@@ -95,3 +95,6 @@
 [submodule "SWAMP"]
 	path = SWAMP
 	url = https://github.com/AWerbrouck/AoC
+[submodule "2021/SWAMP"]
+	path = 2021/SWAMP
+	url = https://github.com/AWerbrouck/AoC
