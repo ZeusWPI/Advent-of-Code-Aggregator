@@ -24,6 +24,7 @@
 | Charlotte      | https://github.com/charvp/aoc2020                 | Nix        |
 | Arthur/Swomp   | https://github.com/AWerbrouck/AOC2020             | Java       |
 | Mraedis        | https://github.com/Mraedis/AoC2020                | Python     |
+| Lox            | https://github.com/Silox/2020-advent-of-code      | Ruby       |
 
 * repo clonen:
 
