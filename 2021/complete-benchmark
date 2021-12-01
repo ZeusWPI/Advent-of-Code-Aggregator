@@ -15,6 +15,7 @@ for dir in *; do
 	if test -d "$dir"; then
 		cd "$dir"
 		if test -x ./prepare; then
+			echo "---------------------------------------------------------------------------------- $dir"
 			if ! ./prepare "$day" "$part" >&2; then
 				echo 'eh ge hebt precies niet alles geïnstalleerd staan'
 			else
