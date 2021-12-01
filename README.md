@@ -1,5 +1,7 @@
 # De Zeus Advent of Code
 
+## 2021
+
 | Wie?           | Waar? (Repository)                                | Taal?       |
 | :------------- | :-----------------------------------------------: | ---------:  |
 | chvp           | https://github.com/chvp/aoc2021                   | forth       |
@@ -13,6 +15,13 @@
 | Timpy          | https://github.com/timodw/aoc_2021                | Python/Numpy|
 | Swambino       | https://github.com/AWerbrouck/AoC                 | py & haskell|
 | Francis.       | https://github.com/FKD13/AoC2021.git              | Prolog      |
+| Lox            | https://github.com/Silox/2021-advent-of-code.git  | Ruby        |
+
+## 2020 (incomplete)
+
+| Wie?           | Waar? (Repository)                                | Taal?       |
+| :------------- | :-----------------------------------------------: | ---------:  |
+| Lox            | https://github.com/Silox/2020-advent-of-code.git  | Ruby        |
 
 * repo clonen:
 
@@ -24,7 +33,7 @@
 
     ```sh
     cd 2021
-    git submodule add <link zoals in tabel> <naam zoals in tabel>
+    git submodule add <link zoals in tabel> <jaar>/<naam zoals in tabel>
     git commit -m 'hey guys ik heb een repo toegevoegd'
     ```
 
