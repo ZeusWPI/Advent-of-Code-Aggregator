@@ -110,3 +110,6 @@
 [submodule "2021/beardhatcode"]
 	path = 2021/beardhatcode
 	url = https://github.com/beardhatcode/aoc-2021/
+[submodule "2021/redfast00"]
+	path = 2021/redfast00
+	url = https://github.com/redfast00/aoc2021
