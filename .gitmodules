@@ -92,3 +92,6 @@
 [submodule "2021/Timpy"]
 	path = 2021/Timpy
 	url = https://github.com/timodw/aoc_2021
+[submodule "SWAMP"]
+	path = SWAMP
+	url = https://github.com/AWerbrouck/AoC
