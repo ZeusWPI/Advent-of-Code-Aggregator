@@ -12,6 +12,7 @@
 | Bond-009       | https://github.com/Bond-009/advent-of-code-2021   | Rust        |
 | Timpy          | https://github.com/timodw/aoc_2021                | Python/Numpy|
 | Swambino       | https://github.com/AWerbrouck/AoC                 | py &mss rust|
+| Francis.       | https://github.com/FKD13/AoC2021.git              | Prolog      |
 
 * repo clonen:
 

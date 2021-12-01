@@ -98,3 +98,6 @@
 [submodule "2021/SWAMP"]
 	path = 2021/SWAMP
 	url = https://github.com/AWerbrouck/AoC
+[submodule "2021/Francis."]
+	path = 2021/Francis.
+	url = https://github.com/FKD13/AoC2021.git
