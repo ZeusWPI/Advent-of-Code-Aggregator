@@ -89,6 +89,6 @@
 [submodule "2021/Bond-009"]
 	path = 2021/Bond-009
 	url = https://github.com/Bond-009/advent-of-code-2021
-[submodule "Timpy"]
-	path = Timpy
+[submodule "2021/Timpy"]
+	path = 2021/Timpy
 	url = https://github.com/timodw/aoc_2021
