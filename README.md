@@ -1,15 +1,16 @@
 # De Zeus Advent of Code
 
-| Wie?           | Waar? (Repository)                                | Taal?      |
-| :------------- | :-----------------------------------------------: | ---------: |
-| chvp           | https://github.com/chvp/aoc2021                   | forth      |
-| ninewise       | https://git.fuyu.moe/ninewise/adventofcode-2021   | lua        |
-| robbe          | git@github.com:Robbe7730/adventofcode2021.git     | ?          |
-| Flynn          | https://gitlab.com/mcbloch/aoc2021                | ?          |
-| Silvius        | https://github.com/ajuvercr/aoc-2021              | C          |
-| rien           | https://github.com/rien/adventofcode2021          | C (no std) |
-| iasoon         | https://github.com/iasoon/aoc2021                 | pony       |
-| Bond-009       | https://github.com/Bond-009/advent-of-code-2021   | Rust       |
+| Wie?           | Waar? (Repository)                                | Taal?       |
+| :------------- | :-----------------------------------------------: | ---------:  |
+| chvp           | https://github.com/chvp/aoc2021                   | forth       |
+| ninewise       | https://git.fuyu.moe/ninewise/adventofcode-2021   | lua         |
+| robbe          | git@github.com:Robbe7730/adventofcode2021.git     | ?           |
+| Flynn          | https://gitlab.com/mcbloch/aoc2021                | ?           |
+| Silvius        | https://github.com/ajuvercr/aoc-2021              | C           |
+| rien           | https://github.com/rien/adventofcode2021          | C (no std)  |
+| iasoon         | https://github.com/iasoon/aoc2021                 | pony        |
+| Bond-009       | https://github.com/Bond-009/advent-of-code-2021   | Rust        |
+| Timpy          | https://github.com/timodw/aoc_2021                | Python/Numpy|
 
 * repo clonen:
 
