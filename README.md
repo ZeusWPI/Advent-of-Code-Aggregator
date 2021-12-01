@@ -11,6 +11,7 @@
 | iasoon         | https://github.com/iasoon/aoc2021                 | pony        |
 | Bond-009       | https://github.com/Bond-009/advent-of-code-2021   | Rust        |
 | Timpy          | https://github.com/timodw/aoc_2021                | Python/Numpy|
+| Swambino       | https://github.com/AWerbrouck/AoC                 | py &mss rust|
 
 * repo clonen:
 
