@@ -14,6 +14,7 @@
 | Swambino       | https://github.com/AWerbrouck/AoC                 | py & haskell|
 | Francis.       | https://github.com/FKD13/AoC2021.git              | Prolog      |
 | Lox            | https://github.com/Silox/2021-advent-of-code.git  | Ruby        |
+| beardhatcode   | https://github.com/beardhatcode/aoc-2021          | Rust        |
 
 
 * repo clonen:
