@@ -73,3 +73,6 @@
 [submodule "2021/robbe"]
 	path = 2021/robbe
 	url = git@github.com:Robbe7730/adventofcode2021.git
+[submodule "2021/silvius"]
+	path = 2021/silvius
+	url = https://github.com/ajuvercr/aoc-2021.git
