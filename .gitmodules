@@ -86,3 +86,6 @@
 [submodule "2021/iasoon"]
 	path = 2021/iasoon
 	url = https://github.com/iasoon/aoc2021
+[submodule "2021/Bond-009"]
+	path = 2021/Bond-009
+	url = https://github.com/Bond-009/advent-of-code-2021
