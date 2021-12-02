@@ -17,6 +17,7 @@
 | beardhatcode   | https://github.com/beardhatcode/aoc-2021           | Rust        |
 | redfast00      | https://github.com/redfast00/aoc2021               | Python      |
 | Jasper 2.0     | https://github.com/JasperJanin/advent-of-code-2021 | Kotlin      |
+| jaspervdj      | https://github.com/jaspervdj/advent-of-code        | Haskell     |
 
 
 * repo clonen:
