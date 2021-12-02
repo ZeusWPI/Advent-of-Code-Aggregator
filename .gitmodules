@@ -113,3 +113,6 @@
 [submodule "2021/redfast00"]
 	path = 2021/redfast00
 	url = https://github.com/redfast00/aoc2021
+[submodule "2021/JasperJanin"]
+	path = 2021/JasperJanin
+	url = https://github.com/JasperJanin/advent-of-code-2021
