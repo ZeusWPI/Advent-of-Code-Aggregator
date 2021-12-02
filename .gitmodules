@@ -116,3 +116,6 @@
 [submodule "2021/JasperJanin"]
 	path = 2021/JasperJanin
 	url = https://github.com/JasperJanin/advent-of-code-2021
+[submodule "2021/jaspervdj"]
+	path = 2021/jaspervdj
+	url = https://github.com/jaspervdj/advent-of-code
