@@ -119,3 +119,6 @@
 [submodule "2021/jaspervdj"]
 	path = 2021/jaspervdj
 	url = https://github.com/jaspervdj/advent-of-code
+[submodule "2021/niknetniko"]
+	path = 2021/niknetniko
+	url = https://github.com/niknetniko/AdventOfCode.git
