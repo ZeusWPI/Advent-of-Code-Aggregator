@@ -122,3 +122,6 @@
 [submodule "2021/niknetniko"]
 	path = 2021/niknetniko
 	url = https://github.com/niknetniko/AdventOfCode.git
+[submodule "2021/francis"]
+	path = 2021/francis
+	url = https://github.com/fbegyn/aoc2021
