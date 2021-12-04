@@ -20,6 +20,7 @@
 | jaspervdj      | https://github.com/jaspervdj/advent-of-code        | Haskell     |
 | niknetniko     | https://github.com/niknetniko/AdventOfCode         | Elixir      |
 | francis        | https://github.com/fbegyn/aoc2021                  | Go          |
+| mraedis        | https://github.com/Mraedis/AoC2021/                | Python      |
 
 
 * repo clonen:
