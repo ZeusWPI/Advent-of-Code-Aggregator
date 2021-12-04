@@ -125,3 +125,6 @@
 [submodule "2021/francis"]
 	path = 2021/francis
 	url = https://github.com/fbegyn/aoc2021
+[submodule "2021/mraedis"]
+	path = 2021/mraedis
+	url = https://github.com/Mraedis/AoC2021/
