@@ -19,6 +19,7 @@
 | Jasper 2.0     | https://github.com/JasperJanin/advent-of-code-2021 | Kotlin      |
 | jaspervdj      | https://github.com/jaspervdj/advent-of-code        | Haskell     |
 | niknetniko     | https://github.com/niknetniko/AdventOfCode         | Elixir      |
+| francis        | https://github.com/fbegyn/aoc2021                  | Go          |
 
 
 * repo clonen:
