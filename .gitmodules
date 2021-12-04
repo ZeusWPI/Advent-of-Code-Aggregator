@@ -107,3 +107,21 @@
 [submodule "2021/Lox"]
 	path = 2021/Lox
 	url = https://github.com/Silox/2021-advent-of-code
+[submodule "2021/beardhatcode"]
+	path = 2021/beardhatcode
+	url = https://github.com/beardhatcode/aoc-2021/
+[submodule "2021/redfast00"]
+	path = 2021/redfast00
+	url = https://github.com/redfast00/aoc2021
+[submodule "2021/JasperJanin"]
+	path = 2021/JasperJanin
+	url = https://github.com/JasperJanin/advent-of-code-2021
+[submodule "2021/jaspervdj"]
+	path = 2021/jaspervdj
+	url = https://github.com/jaspervdj/advent-of-code
+[submodule "2021/niknetniko"]
+	path = 2021/niknetniko
+	url = https://github.com/niknetniko/AdventOfCode.git
+[submodule "2021/francis"]
+	path = 2021/francis
+	url = https://github.com/fbegyn/aoc2021
