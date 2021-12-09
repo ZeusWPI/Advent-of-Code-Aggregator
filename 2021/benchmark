@@ -1,7 +1,7 @@
 #!/bin/sh
-day="$(printf '%02d' "${1##0}")"
+day="$1"
 part="$2"
-inputfile="$PWD/../inputs/$day.txt"
+inputfile="$PWD/../inputs/$(printf '%02d' "${day##0}").txt"
 
 [ -x "prepare" ] || exit 0
 
