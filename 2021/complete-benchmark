@@ -1,8 +1,8 @@
 #!/bin/sh
-day="$1"
+day="$(printf '%02d' ${1##0})"
 part="$2"
 
-inputfile="$PWD/inputs/$(printf '%02d' "${day##0}").txt"
+inputfile="$PWD/inputs/${day}.txt"
 
 if ! test -f "$inputfile"; then
 	echo "no input available" >&2
