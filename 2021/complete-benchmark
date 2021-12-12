@@ -2,8 +2,7 @@
 day="$(printf '%02d' ${1##0})"
 part="$2"
 
-#inputfile="$PWD/inputs/${day}.txt"
-inputfile="$3"
+inputfile="$PWD/inputs/${day}.txt"
 
 if ! test -f "$inputfile"; then
 	echo "no input available" >&2
