@@ -131,3 +131,6 @@
 [submodule "2022/chvp"]
 	path = 2022/chvp
 	url = https://github.com/chvp/aoc2022.git
+[submodule "2022/hvdncamp"]
+	path = 2022/hvdncamp
+	url = https://github.com/hvdncamp/adventofcode-2022

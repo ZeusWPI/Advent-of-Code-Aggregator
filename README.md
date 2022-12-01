@@ -3,6 +3,7 @@
 | Wie?           | Waar? (Repository)                                 | Taal?       |
 | :------------- | :------------------------------------------------: | ---------:  |
 | chvp           | https://github.com/chvp/aoc2022                    | Haskell     |
+| hvdncamp       | https://github.com/hvdncamp/adventofcode-2022      | C           |
 
 
 * repo clonen:
