@@ -128,3 +128,6 @@
 [submodule "2021/mraedis"]
 	path = 2021/mraedis
 	url = https://github.com/Mraedis/AoC2021/
+[submodule "2022/chvp"]
+	path = 2022/chvp
+	url = https://github.com/chvp/aoc2022.git
