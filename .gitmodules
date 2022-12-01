@@ -134,3 +134,9 @@
 [submodule "2022/hvdncamp"]
 	path = 2022/hvdncamp
 	url = https://github.com/hvdncamp/adventofcode-2022
+[submodule "2022/fbegyn"]
+	path = 2022/fbegyn
+	url = https://github.com/fbegyn/aoc2022
+[submodule "2022/mraedis"]
+	path = 2022/mraedis
+	url = https://github.com/Mraedis/AoC2022
