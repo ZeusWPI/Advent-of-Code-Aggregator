@@ -1,9 +1,10 @@
 # De Zeus Advent of Code
 
-| Wie?           | Waar? (Repository)                                 | Taal?       |
-| :------------- | :------------------------------------------------: | ---------:  |
-| chvp           | https://github.com/chvp/aoc2022                    | Haskell     |
-| hvdncamp       | https://github.com/hvdncamp/adventofcode-2022      | C           |
+| Wie?           | Waar? (Repository)                                 | Taal?              |
+| :------------- | :------------------------------------------------: | ---------:         |
+| chvp           | https://github.com/chvp/aoc2022                    | Haskell            |
+| hvdncamp       | https://github.com/hvdncamp/adventofcode-2022      | C                  |
+| mcbloch        | https://gitlab.com/mcbloch/aoc2022                 | Clojure (Babashka) |
 
 
 * repo clonen:
