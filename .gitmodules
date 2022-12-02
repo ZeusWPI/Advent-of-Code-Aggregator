@@ -140,3 +140,6 @@
 [submodule "2022/mraedis"]
 	path = 2022/mraedis
 	url = https://github.com/Mraedis/AoC2022
+[submodule "2022/mcbloch"]
+	path = 2022/mcbloch
+	url = https://gitlab.com/mcbloch/aoc2022
