@@ -146,3 +146,6 @@
 [submodule "2022/silvius"]
 	path = 2022/silvius
 	url = https://github.com/ajuvercr/advent-of-code
+[submodule "2022/robe"]
+	path = 2022/robe
+	url = https://github.com/SchrodingersCat00/aoc2022.git

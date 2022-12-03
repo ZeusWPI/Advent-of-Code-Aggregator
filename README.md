@@ -1,13 +1,14 @@
 # De Zeus Advent of Code
 
-| Wie?     | Waar? (Repository)                            |              Taal? |
-|:---------|:---------------------------------------------:|-------------------:|
-| chvp     | https://github.com/chvp/aoc2022               |            Haskell |
-| hvdncamp | https://github.com/hvdncamp/adventofcode-2022 |                  C |
-| mcbloch  | https://gitlab.com/mcbloch/aoc2022            | Clojure (Babashka) |
-| fbegyn   | https://github.com/fbegyn/aoc2022             |            Go/Ruby |
-| Mraedis  | https://github.com/Mraedis/AoC2022            |               Ruby |
-| silvius  | https://github.com/ajuvercr/advent-of-code    |               Rust |
+| Wie?     | Waar? (Repository)                               |              Taal? |
+|:---------|:------------------------------------------------:|-------------------:|
+| chvp     | https://github.com/chvp/aoc2022                  |            Haskell |
+| hvdncamp | https://github.com/hvdncamp/adventofcode-2022    |                  C |
+| mcbloch  | https://gitlab.com/mcbloch/aoc2022               | Clojure (Babashka) |
+| fbegyn   | https://github.com/fbegyn/aoc2022                |            Go/Ruby |
+| Mraedis  | https://github.com/Mraedis/AoC2022               |               Ruby |
+| silvius  | https://github.com/ajuvercr/advent-of-code       |               Rust |
+| robe     | https://github.com/SchrodingersCat00/aoc2022.git |               Rust |
 
 
 * repo clonen:
