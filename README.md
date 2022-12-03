@@ -7,6 +7,7 @@
 | mcbloch  | https://gitlab.com/mcbloch/aoc2022            | Clojure (Babashka) |
 | fbegyn   | https://github.com/fbegyn/aoc2022             |            Go/Ruby |
 | Mraedis  | https://github.com/Mraedis/AoC2022            |               Ruby |
+| silvius  | https://github.com/ajuvercr/advent-of-code    |               Rust |
 
 
 * repo clonen:

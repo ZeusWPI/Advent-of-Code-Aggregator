@@ -143,3 +143,6 @@
 [submodule "2022/mcbloch"]
 	path = 2022/mcbloch
 	url = https://gitlab.com/mcbloch/aoc2022
+[submodule "2022/silvius"]
+	path = 2022/silvius
+	url = https://github.com/ajuvercr/advent-of-code
