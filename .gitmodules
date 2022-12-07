@@ -152,3 +152,6 @@
 [submodule "2022/niknetniko"]
 	path = 2022/niknetniko
 	url = https://github.com/niknetniko/AdventOfCode
+[submodule "2022/jaspervdj"]
+	path = 2022/jaspervdj
+	url = https://github.com/jaspervdj/advent-of-code
