@@ -10,6 +10,7 @@
 | silvius    | https://github.com/ajuvercr/advent-of-code       |               Rust |
 | robe       | https://github.com/SchrodingersCat00/aoc2022.git |               Rust |
 | niknetniko | https://github.com/niknetniko/AdventOfCode       |                  C |
+| jaspervdj  | https://github.com/jaspervdj/advent-of-code      |            Haskell |
 
 
 * repo clonen:
