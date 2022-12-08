@@ -11,6 +11,7 @@
 | robe       | https://github.com/SchrodingersCat00/aoc2022.git |               Rust |
 | niknetniko | https://github.com/niknetniko/AdventOfCode       |                  C |
 | jaspervdj  | https://github.com/jaspervdj/advent-of-code      |            Haskell |
+| s-minoo    | https://github.com/s-minoo/advent-of-code        |               Rust |
 
 
 * repo clonen:
