@@ -158,3 +158,6 @@
 [submodule "2022/s-minoo"]
 	path = 2022/s-minoo
 	url = https://github.com/s-minoo/advent-of-code.git
+[submodule "2022/iasoon"]
+	path = 2022/iasoon
+	url = https://github.com/iasoon/aoc2022.git
