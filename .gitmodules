@@ -161,3 +161,6 @@
 [submodule "2022/iasoon"]
 	path = 2022/iasoon
 	url = https://github.com/iasoon/aoc2022.git
+[submodule "2023/chvp"]
+	path = 2023/chvp
+	url = https://github.com/chvp/aoc2023.git

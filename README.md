@@ -1,32 +1,22 @@
 # De Zeus Advent of Code
 
-| Wie?       | Waar? (Repository)                               |              Taal? |
-|:-----------|:------------------------------------------------:|-------------------:|
-| chvp       | https://github.com/chvp/aoc2022                  |            Haskell |
-| hvdncamp   | https://github.com/hvdncamp/adventofcode-2022    |                  C |
-| mcbloch    | https://gitlab.com/mcbloch/aoc2022               | Clojure (Babashka) |
-| fbegyn     | https://github.com/fbegyn/aoc2022                |            Go/Ruby |
-| Mraedis    | https://github.com/Mraedis/AoC2022               |               Ruby |
-| silvius    | https://github.com/ajuvercr/advent-of-code       |               Rust |
-| robe       | https://github.com/SchrodingersCat00/aoc2022.git |               Rust |
-| niknetniko | https://github.com/niknetniko/AdventOfCode       |                  C |
-| jaspervdj  | https://github.com/jaspervdj/advent-of-code      |            Haskell |
-| s-minoo    | https://github.com/s-minoo/advent-of-code        |               Rust |
-| iasoon     | https://github.com/iasoon/aoc2022                |               Rust |
+| Wie? | Waar? (Repository)              | Taal? |
+|:-----|:-------------------------------:|------:|
+| chvp | https://github.com/chvp/aoc2023 |     C |
 
 
 * repo clonen:
 
     ```sh
     git clone git@github.com:ZeusWPI/Advent-of-Code-Aggregator.git
-    git submodule init 2022 # just the current year
+    git submodule init 2023 # just the current year
     git submodule update
     ```
 
 * nieuwe persoon toevoegen:
 
     ```sh
-    cd 2022
+    cd 2023
     git submodule add <link zoals in tabel> <naam zoals in tabel>
     git commit -m 'hey guys ik heb een repo toegevoegd'
     ```
@@ -50,6 +40,6 @@
 * benchmarks uitvoeren:
 
     ```sh
-    cd 2022
+    cd 2023
     ./complete-benchmark
     ```
