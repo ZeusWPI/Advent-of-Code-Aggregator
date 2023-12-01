@@ -176,3 +176,6 @@
 [submodule "2023/francis-punt"]
 	path = 2023/francis-punt
 	url = git@github.com:FKD13/AoC2023.git
+[submodule "2023/vincent"]
+	path = 2023/vincent
+	url = https://github.com/Topvennie/AoC2023
