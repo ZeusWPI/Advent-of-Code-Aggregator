@@ -167,3 +167,6 @@
 [submodule "2023/mcbloch"]
 	path = 2023/mcbloch
 	url = https://github.com/mcbloch/AoC2023
+[submodule "2023/timpy"]
+	path = 2023/timpy
+	url = https://github.com/timodw/aoc_2023
