@@ -7,6 +7,7 @@
 | timpy | https://github.com/timodw/aoc_2023 | Rust |
 | robbe | https://github.com/Robbe7730/adventofcode2023 | Zig |
 | francis. | https://github.com/FKD13/AoC2023 | bash |
+| vincent | https://github.com/Topvennie/AoC2023 | Go |
 
 
 * repo clonen:
