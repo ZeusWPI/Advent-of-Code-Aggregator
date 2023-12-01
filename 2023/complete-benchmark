@@ -1,14 +1,32 @@
 #!/bin/sh
+
+help()
+{
+	echo $0 [day] [part]
+}
+
+if ! test -n "$1"; then
+	echo "'day' is not given" >&2
+	help
+	exit 1
+fi
 day="$(printf '%02d' ${1##0})"
+
+if ! test -n "$2"; then
+	echo "'part' is not given" >&2
+	help
+	exit 1
+fi
 part="$2"
 
 inputfile="$PWD/inputs/${day}.txt"
-
 if ! test -f "$inputfile"; then
-	echo "no input available" >&2
+	echo "no input available at '$inputfile'" >&2
 	exit 1
 fi
 
+
+echo "Running benchmarks for day $day part $part"
 for dir in *; do
 	if test -d "$dir"; then
 		cd "$dir"
