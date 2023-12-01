@@ -170,3 +170,6 @@
 [submodule "2023/timpy"]
 	path = 2023/timpy
 	url = https://github.com/timodw/aoc_2023
+[submodule "2023/robbe"]
+	path = 2023/robbe
+	url = git@github.com:Robbe7730/adventofcode2023

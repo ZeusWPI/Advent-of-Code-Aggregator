@@ -5,6 +5,7 @@
 | chvp | https://github.com/chvp/aoc2023 |     C |
 | mcbloch | https://github.com/mcbloch/AoC2023 | V |
 | timpy | https://github.com/timodw/aoc_2023 | Rust |
+| robbe | https://github.com/Robbe7730/adventofcode2023 | Zig |
 
 
 * repo clonen:
