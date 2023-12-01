@@ -164,3 +164,6 @@
 [submodule "2023/chvp"]
 	path = 2023/chvp
 	url = https://github.com/chvp/aoc2023.git
+[submodule "2023/mcbloch"]
+	path = 2023/mcbloch
+	url = https://github.com/mcbloch/AoC2023
