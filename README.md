@@ -6,6 +6,7 @@
 | mcbloch | https://github.com/mcbloch/AoC2023 | V |
 | timpy | https://github.com/timodw/aoc_2023 | Rust |
 | robbe | https://github.com/Robbe7730/adventofcode2023 | Zig |
+| francis. | https://github.com/FKD13/AoC2023 | bash |
 
 
 * repo clonen:
