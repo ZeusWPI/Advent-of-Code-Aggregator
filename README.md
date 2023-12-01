@@ -4,6 +4,7 @@
 |:-----|:-------------------------------:|------:|
 | chvp | https://github.com/chvp/aoc2023 |     C |
 | mcbloch | https://github.com/mcbloch/AoC2023 | V |
+| timpy | https://github.com/timodw/aoc_2023 | Rust |
 
 
 * repo clonen:
