@@ -179,3 +179,6 @@
 [submodule "2023/vincent"]
 	path = 2023/vincent
 	url = https://github.com/Topvennie/AoC2023
+[submodule "2023/mraedis"]
+	path = 2023/mraedis
+	url = https://github.com/Mraedis/AoC2023
