@@ -9,6 +9,7 @@
 | francis. | https://github.com/FKD13/AoC2023              |  bash |
 | vincent  | https://github.com/Topvennie/AoC2023          |    Go |
 | mraedis  | https://github.com/Mraedis/AoC2023            |  Ruby |
+| hannes   | https://github.com/hannes-dev/aoc2023         |  Rust |
 
 
 * repo clonen:
