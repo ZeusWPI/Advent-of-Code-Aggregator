@@ -185,3 +185,6 @@
 [submodule "2023/hannes"]
 	path = 2023/hannes
 	url = https://github.com/hannes-dev/aoc2023
+[submodule "2023/niknetniko"]
+	path = 2023/niknetniko
+	url = https://github.com/niknetniko/AdventOfCode

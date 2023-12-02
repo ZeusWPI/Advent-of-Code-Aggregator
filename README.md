@@ -1,15 +1,16 @@
 # De Zeus Advent of Code
 
-| Wie?     | Waar? (Repository)                            | Taal? |
-|:---------|:---------------------------------------------:|------:|
-| chvp     | https://github.com/chvp/aoc2023               |     C |
-| mcbloch  | https://github.com/mcbloch/AoC2023            |     V |
-| timpy    | https://github.com/timodw/aoc_2023            |  Rust |
-| robbe    | https://github.com/Robbe7730/adventofcode2023 |   Zig |
-| francis. | https://github.com/FKD13/AoC2023              |  bash |
-| vincent  | https://github.com/Topvennie/AoC2023          |    Go |
-| mraedis  | https://github.com/Mraedis/AoC2023            |  Ruby |
-| hannes   | https://github.com/hannes-dev/aoc2023         |  Rust |
+| Wie?       | Waar? (Repository)                            |  Taal? |
+|:-----------|:---------------------------------------------:|-------:|
+| chvp       | https://github.com/chvp/aoc2023               |      C |
+| mcbloch    | https://github.com/mcbloch/AoC2023            |      V |
+| timpy      | https://github.com/timodw/aoc_2023            |   Rust |
+| robbe      | https://github.com/Robbe7730/adventofcode2023 |    Zig |
+| francis.   | https://github.com/FKD13/AoC2023              |   bash |
+| vincent    | https://github.com/Topvennie/AoC2023          |     Go |
+| mraedis    | https://github.com/Mraedis/AoC2023            |   Ruby |
+| hannes     | https://github.com/hannes-dev/aoc2023         |   Rust |
+| niknetniko | https://github.com/niknetniko/AdventOfCode    | Elixir |
 
 
 * repo clonen:
