@@ -5,7 +5,7 @@ inputfile="$PWD/../inputs/${day}.txt"
 
 [ -x "prepare" ] || exit 0
 
-if ! ./prepare "$day" "$part" "$inputfile"; then
+if ! ./prepare "$day" "$part"; then
 	echo 'eh ge hebt precies niet alles geïnstalleerd staan'
 else
 	if [ -x "run" ]; then

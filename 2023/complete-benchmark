@@ -19,7 +19,7 @@ for dir in *; do
 		cd "$dir"
 		if test -x ./prepare; then
 			echo "---------------------------------------------------------------------------------- $dir"
-			if ! ./prepare "$day" "$part" "$inputfile" >&2; then
+			if ! ./prepare "$day" "$part" >&2; then
 				echo 'eh ge hebt precies niet alles geïnstalleerd staan'
 			else
 				if test -x run; then
