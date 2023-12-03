@@ -73,9 +73,6 @@
 [submodule "2021/robbe"]
 	path = 2021/robbe
 	url = https://github.com/Robbe7730/adventofcode2021.git
-[submodule "2021/silvius"]
-	path = 2021/silvius
-	url = https://github.com/ajuvercr/aoc-2021.git
 [submodule "robbe"]
 [submodule "2021/Flynn"]
 	path = 2021/Flynn
@@ -86,17 +83,11 @@
 [submodule "2021/iasoon"]
 	path = 2021/iasoon
 	url = https://github.com/iasoon/aoc2021
-[submodule "2021/Bond-009"]
-	path = 2021/Bond-009
-	url = https://github.com/Bond-009/advent-of-code-2021
 [submodule "2021/Timpy"]
 	path = 2021/Timpy
 	url = https://github.com/timodw/aoc_2021
 [submodule "SWAMP"]
 	path = SWAMP
-	url = https://github.com/AWerbrouck/AoC
-[submodule "2021/SWAMP"]
-	path = 2021/SWAMP
 	url = https://github.com/AWerbrouck/AoC
 [submodule "2021/Francis."]
 	path = 2021/Francis.
@@ -172,10 +163,10 @@
 	url = https://github.com/timodw/aoc_2023
 [submodule "2023/robbe"]
 	path = 2023/robbe
-	url = git@github.com:Robbe7730/adventofcode2023
+	url = https://github.com/Robbe7730/adventofcode2023
 [submodule "2023/francis-punt"]
 	path = 2023/francis-punt
-	url = git@github.com:FKD13/AoC2023.git
+	url = https://github.com/FKD13/AoC2023
 [submodule "2023/vincent"]
 	path = 2023/vincent
 	url = https://github.com/Topvennie/AoC2023
