@@ -188,3 +188,6 @@
 [submodule "2023/niknetniko"]
 	path = 2023/niknetniko
 	url = https://github.com/niknetniko/AdventOfCode
+[submodule "2023/noctua"]
+	path = 2023/noctua
+	url = https://github.com/ninewise/adventofcode-2023

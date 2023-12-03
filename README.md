@@ -11,6 +11,7 @@
 | mraedis    | https://github.com/Mraedis/AoC2023            |   Ruby |
 | hannes     | https://github.com/hannes-dev/aoc2023         |   Rust |
 | niknetniko | https://github.com/niknetniko/AdventOfCode    | Elixir |
+| noctua     | https://github.com/ninewise/adventofcode-2023 |        |
 
 
 * repo clonen:
