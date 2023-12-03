@@ -1,8 +1,13 @@
 #!/bin/sh
 day="$(printf '%02d' ${1##0})"
 part="$2"
+inputfile="$3"
 
-inputfile="$PWD/francis-punt/${day}_input.txt"
+case "$inputfile" in
+"") inputfile="$PWD/francis-punt/${day}_input.txt";;
+/*) ;;
+*) inputfile="$PWD/$inputfile";;
+esac
 
 if ! test -f "$inputfile"; then
 	echo "no input available" >&2
@@ -14,7 +19,7 @@ for dir in *; do
 		cd "$dir"
 		if test -x ./prepare; then
 			echo "---------------------------------------------------------------------------------- $dir"
-			if ! ./prepare "$day" "$part" >&2; then
+			if ! ./prepare "$day" "$part" "$inputfile" >&2; then
 				echo 'eh ge hebt precies niet alles geïnstalleerd staan'
 			else
 				if test -x run; then
