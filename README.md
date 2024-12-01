@@ -5,6 +5,7 @@
 | vincent   | https://github.com/Topvennie/AoC     |    Go |
 | jnms      | https://github.com/Reavershark/aoc24 |     D |
 | redfast00 | https://github.com/redfast00/aoc2024 |  Rust |
+| chvp      | https://github.com/chvp/aoc2024      |   SQL |
 
 
 * repo clonen:

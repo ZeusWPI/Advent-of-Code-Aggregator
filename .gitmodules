@@ -191,3 +191,6 @@
 [submodule "2024/redfast00"]
 	path = 2024/redfast00
 	url = https://github.com/redfast00/aoc2024
+[submodule "2024/chvp"]
+	path = 2024/chvp
+	url = https://github.com/chvp/aoc2024
