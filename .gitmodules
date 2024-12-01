@@ -182,3 +182,6 @@
 [submodule "2023/noctua"]
 	path = 2023/noctua
 	url = https://github.com/ninewise/adventofcode-2023
+[submodule "2024/vincent"]
+	path = 2024/vincent
+	url = https://github.com/Topvennie/AoC
