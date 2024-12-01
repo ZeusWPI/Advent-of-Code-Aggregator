@@ -1,9 +1,10 @@
 # De Zeus Advent of Code
 
-| Wie?    |          Waar? (Repository)          | Taal? |
-|---------|:------------------------------------:|------:|
-| vincent | https://github.com/Topvennie/AoC     |    Go |
-| jnms    | https://github.com/Reavershark/aoc24 |     D |
+| Wie?      | Waar? (Repository)                   | Taal? |
+|-----------|--------------------------------------|------:|
+| vincent   | https://github.com/Topvennie/AoC     |    Go |
+| jnms      | https://github.com/Reavershark/aoc24 |     D |
+| redfast00 | https://github.com/redfast00/aoc2024 |  Rust |
 
 
 * repo clonen:

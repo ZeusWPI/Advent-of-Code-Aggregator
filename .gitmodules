@@ -188,3 +188,6 @@
 [submodule "2024/jnms"]
 	path = 2024/jnms
 	url = https://github.com/Reavershark/aoc24
+[submodule "2024/redfast00"]
+	path = 2024/redfast00
+	url = https://github.com/redfast00/aoc2024
