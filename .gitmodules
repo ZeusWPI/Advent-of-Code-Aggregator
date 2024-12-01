@@ -185,3 +185,6 @@
 [submodule "2024/vincent"]
 	path = 2024/vincent
 	url = https://github.com/Topvennie/AoC
+[submodule "2024/jnms"]
+	path = 2024/jnms
+	url = https://github.com/Reavershark/aoc24
