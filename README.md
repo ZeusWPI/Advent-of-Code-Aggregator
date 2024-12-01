@@ -1,31 +1,23 @@
 # De Zeus Advent of Code
 
-| Wie?       | Waar? (Repository)                            |  Taal? |
-|:-----------|:---------------------------------------------:|-------:|
-| chvp       | https://github.com/chvp/aoc2023               |      C |
-| mcbloch    | https://github.com/mcbloch/AoC2023            |      V |
-| timpy      | https://github.com/timodw/aoc_2023            |   Rust |
-| robbe      | https://github.com/Robbe7730/adventofcode2023 |    Zig |
-| francis.   | https://github.com/FKD13/AoC2023              |   bash |
-| vincent    | https://github.com/Topvennie/AoC2023          |     Go |
-| mraedis    | https://github.com/Mraedis/AoC2023            |   Ruby |
-| hannes     | https://github.com/hannes-dev/aoc2023         |   Rust |
-| niknetniko | https://github.com/niknetniko/AdventOfCode    | Elixir |
-| noctua     | https://github.com/ninewise/adventofcode-2023 |        |
+| Wie?    |          Waar? (Repository)          | Taal? |
+|---------|:------------------------------------:|------:|
+| vincent | https://github.com/Topvennie/AoC     |    Go |
+| jnms    | https://github.com/Reavershark/aoc24 |     D |
 
 
 * repo clonen:
 
     ```sh
     git clone git@github.com:ZeusWPI/Advent-of-Code-Aggregator.git
-    git submodule init 2023 # just the current year
+    git submodule init 2024 # just the current year
     git submodule update
     ```
 
 * nieuwe persoon toevoegen:
 
     ```sh
-    cd 2023
+    cd 2024
     git submodule add <link zoals in tabel> <naam zoals in tabel>
     git commit -m 'hey guys ik heb een repo toegevoegd'
     ```
@@ -49,6 +41,6 @@
 * benchmarks uitvoeren:
 
     ```sh
-    cd 2023
+    cd 2024
     ./complete-benchmark
     ```
