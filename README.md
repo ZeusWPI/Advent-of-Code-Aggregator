@@ -7,6 +7,7 @@
 | redfast00 | https://github.com/redfast00/aoc2024 |  Rust |
 | chvp      | https://github.com/chvp/aoc2024      |   SQL |
 | michiel   | https://github.com/milachae/aoc2024  |  Rust |
+| francis   | https://github.com/fbegyn/aoc2024    |    Go |
 
 
 * repo clonen:
