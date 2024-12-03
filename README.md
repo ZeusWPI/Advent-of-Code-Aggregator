@@ -1,13 +1,14 @@
 # De Zeus Advent of Code
 
-| Wie?      | Waar? (Repository)                   | Taal? |
-|-----------|--------------------------------------|------:|
-| vincent   | https://github.com/Topvennie/AoC     |    Go |
-| jnms      | https://github.com/Reavershark/aoc24 |     D |
-| redfast00 | https://github.com/redfast00/aoc2024 |  Rust |
-| chvp      | https://github.com/chvp/aoc2024      |   SQL |
-| michiel   | https://github.com/milachae/aoc2024  |  Rust |
-| francis   | https://github.com/fbegyn/aoc2024    |    Go |
+| Wie?      | Waar? (Repository)                    | Taal? |
+|-----------|---------------------------------------|------:|
+| vincent   | https://github.com/Topvennie/AoC      |    Go |
+| jnms      | https://github.com/Reavershark/aoc24  |     D |
+| redfast00 | https://github.com/redfast00/aoc2024  |  Rust |
+| chvp      | https://github.com/chvp/aoc2024       |   SQL |
+| michiel   | https://github.com/milachae/aoc2024   |  Rust |
+| francis   | https://github.com/fbegyn/aoc2024     |    Go |
+| hannes    | https://github.com/hannes-dev/aoc2024 |  Uiua |
 
 
 * repo clonen:
