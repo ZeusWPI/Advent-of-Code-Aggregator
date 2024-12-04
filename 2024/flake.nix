@@ -19,7 +19,10 @@
             pkgs.postgresql_14
             pkgs.ldc
             pkgs.go
+            pkgs.dub
+            pkgs.zig
           ];
+
         };
       }
     );

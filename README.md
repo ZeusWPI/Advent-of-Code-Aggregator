@@ -9,6 +9,7 @@
 | michiel   | https://github.com/milachae/aoc2024   |  Rust |
 | francis   | https://github.com/fbegyn/aoc2024     |    Go |
 | hannes    | https://github.com/hannes-dev/aoc2024 |  Uiua |
+| xerbalind | https://git.biltopia.org/aoc2024      |  Zig  |
 
 
 * repo clonen:
