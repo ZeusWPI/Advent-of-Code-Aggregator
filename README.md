@@ -2,9 +2,9 @@
 
 | Wie?      | Waar? (Repository)                                | Taal? |
 |-----------|---------------------------------------------------|------:|
-| xerbalind | https://git.biltopia.org/advent-of-code/aoc2025   | Zig   |
-| hannes    | https://github.com/hannes-dev/aoc2025             | C   |
-
+| xerbalind | <https://git.biltopia.org/advent-of-code/aoc2025>   | Zig   |
+| hannes    | <https://github.com/hannes-dev/aoc2025>             | C   |
+| Vincent | <https://github.com/Topvennie/AoC/> | Golang |
 
 * repo clonen:
 

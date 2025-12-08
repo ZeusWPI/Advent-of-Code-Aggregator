@@ -212,3 +212,6 @@
 [submodule "2025/hannes"]
 	path = 2025/hannes
 	url = https://github.com/hannes-dev/aoc2025
+[submodule "2025/Vincent"]
+	path = 2025/Vincent
+	url = https://github.com/Topvennie/AoC/
