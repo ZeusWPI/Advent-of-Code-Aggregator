@@ -17,18 +17,18 @@ fi
 for dir in *; do
 	if test -d "$dir"; then
 		cd "$dir"
-		if test -x ./prepare; then
+		if test -x ./prepare.sh; then
 			echo "---------------------------------------------------------------------------------- $dir"
-			if ! ./prepare "$day" "$part" >&2; then
+			if ! ./prepare.sh "$day" "$part" >&2; then
 				echo 'eh ge hebt precies niet alles geïnstalleerd staan'
 			else
-				if test -x run; then
-					hyperfine -n "$dir" "./run '$day' '$part' '$inputfile'"
+				if test -x run.sh; then
+					hyperfine -n "$dir" "./run.sh '$day' '$part' '$inputfile'"
 				fi
 			fi
 		fi
-		if test -x ./clean; then
-			./clean "$day" "$part" "$inputfile"
+		if test -x ./clean.sh; then
+			./clean.sh "$day" "$part" "$inputfile"
 		fi
 		cd - > /dev/null 2>&1
 	fi
