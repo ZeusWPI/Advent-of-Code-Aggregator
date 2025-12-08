@@ -3,6 +3,7 @@
 | Wie?      | Waar? (Repository)                                | Taal? |
 |-----------|---------------------------------------------------|------:|
 | xerbalind | https://git.biltopia.org/advent-of-code/aoc2025   | Zig   |
+| hannes    | https://github.com/hannes-dev/aoc2025             | C   |
 
 
 * repo clonen:

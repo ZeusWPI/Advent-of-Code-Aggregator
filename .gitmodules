@@ -209,3 +209,6 @@
 [submodule "2025/xerbalind"]
 	path = 2025/xerbalind
 	url = https://git.biltopia.org/advent-of-code/aoc2025
+[submodule "2025/hannes"]
+	path = 2025/hannes
+	url = https://github.com/hannes-dev/aoc2025
