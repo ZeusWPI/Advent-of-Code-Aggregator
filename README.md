@@ -5,6 +5,7 @@
 | xerbalind | <https://git.biltopia.org/advent-of-code/aoc2025>   | Zig   |
 | hannes    | <https://github.com/hannes-dev/aoc2025>             | C   |
 | Vincent | <https://github.com/Topvennie/AoC/> | Golang |
+| Tybo | <https://github.com/tyboro2002/aoc> | Python |
 
 * repo clonen:
 
