@@ -215,3 +215,6 @@
 [submodule "2025/Vincent"]
 	path = 2025/Vincent
 	url = https://github.com/Topvennie/AoC/
+[submodule "2025/Tybo"]
+	path = 2025/Tybo
+	url = https://github.com/tyboro2002/aoc
